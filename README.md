@@ -41,32 +41,32 @@ Do not commit or publicly share the personalized YAML. The template contains no 
 ### Mihomo (Clash Meta)
 
 **覆写文件 (.yaml) ⭐ 优先使用**
-  - [mihomo_config_ipv6-1_dns-1_full-0.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-1_full-0.yaml) - 启用 IPv6，启用 DNS，基础配置 ⭐ 推荐
-  - [mihomo_config_ipv6-0_dns-1_full-0.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-0_dns-1_full-0.yaml) - 禁用 IPv6，启用 DNS，基础配置
-  - [mihomo_config_ipv6-0_dns-1_full-1.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-0_dns-1_full-1.yaml) - 禁用 IPv6，启用 DNS，完整配置
-  - [mihomo_config_ipv6-1_dns-1_full-1.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-1_full-1.yaml) - 启用 IPv6，启用 DNS，完整配置
-  - [mihomo_config_ipv6-1_dns-0_full-0.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-0_full-0.yaml) - 启用 IPv6，不配置 DNS 或域名嗅探，基础配置
-  - [mihomo_config_ipv6-1_dns-0_full-1.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-0_full-1.yaml) - 启用 IPv6，不配置 DNS 或域名嗅探，完整配置
-  - [mihomo_config_ipv6-0_dns-0_full-0.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-0_dns-0_full-0.yaml) - 禁用 IPv6，不配置 DNS 或域名嗅探，基础配置
-  - [mihomo_config_ipv6-0_dns-0_full-1.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-0_dns-0_full-1.yaml) - 禁用 IPv6，不配置 DNS 或域名嗅探，完整配置
+  - [mihomo_config_ipv6-1_dns-1_full-0.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-1_full-0.yaml) - 启用 IPv6，启用 DNS，基础配置 ⭐ 推荐
+  - [mihomo_config_ipv6-0_dns-1_full-0.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-0_dns-1_full-0.yaml) - 禁用 IPv6，启用 DNS，基础配置
+  - [mihomo_config_ipv6-0_dns-1_full-1.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-0_dns-1_full-1.yaml) - 禁用 IPv6，启用 DNS，完整配置
+  - [mihomo_config_ipv6-1_dns-1_full-1.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-1_full-1.yaml) - 启用 IPv6，启用 DNS，完整配置
+  - [mihomo_config_ipv6-1_dns-0_full-0.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-0_full-0.yaml) - 启用 IPv6，不配置 DNS 或域名嗅探，基础配置
+  - [mihomo_config_ipv6-1_dns-0_full-1.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-0_full-1.yaml) - 启用 IPv6，不配置 DNS 或域名嗅探，完整配置
+  - [mihomo_config_ipv6-0_dns-0_full-0.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-0_dns-0_full-0.yaml) - 禁用 IPv6，不配置 DNS 或域名嗅探，基础配置
+  - [mihomo_config_ipv6-0_dns-0_full-1.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-0_dns-0_full-1.yaml) - 禁用 IPv6，不配置 DNS 或域名嗅探，完整配置
 
 **覆写脚本 (.js)**
-  - [mihomo_convert_ipv6-1_dns-1_full-0.js](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-1_dns-1_full-0.js) - 启用 IPv6，启用 DNS，基础配置 ⭐ 推荐
-  - [mihomo_convert_ipv6-0_dns-1_full-0.js](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-0_dns-1_full-0.js) - 禁用 IPv6，启用 DNS，基础配置
-  - [mihomo_convert_ipv6-0_dns-1_full-1.js](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-0_dns-1_full-1.js) - 禁用 IPv6，启用 DNS，完整配置
-  - [mihomo_convert_ipv6-1_dns-1_full-1.js](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-1_dns-1_full-1.js) - 启用 IPv6，启用 DNS，完整配置
-  - [mihomo_convert_ipv6-1_dns-0_full-0.js](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-1_dns-0_full-0.js) - 启用 IPv6，不配置 DNS 或域名嗅探，基础配置
-  - [mihomo_convert_ipv6-1_dns-0_full-1.js](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-1_dns-0_full-1.js) - 启用 IPv6，不配置 DNS 或域名嗅探，完整配置
-  - [mihomo_convert_ipv6-0_dns-0_full-0.js](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-0_dns-0_full-0.js) - 禁用 IPv6，不配置 DNS 或域名嗅探，基础配置
-  - [mihomo_convert_ipv6-0_dns-0_full-1.js](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-0_dns-0_full-1.js) - 禁用 IPv6，不配置 DNS 或域名嗅探，完整配置
+  - [mihomo_convert_ipv6-1_dns-1_full-0.js](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-1_dns-1_full-0.js) - 启用 IPv6，启用 DNS，基础配置 ⭐ 推荐
+  - [mihomo_convert_ipv6-0_dns-1_full-0.js](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-0_dns-1_full-0.js) - 禁用 IPv6，启用 DNS，基础配置
+  - [mihomo_convert_ipv6-0_dns-1_full-1.js](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-0_dns-1_full-1.js) - 禁用 IPv6，启用 DNS，完整配置
+  - [mihomo_convert_ipv6-1_dns-1_full-1.js](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-1_dns-1_full-1.js) - 启用 IPv6，启用 DNS，完整配置
+  - [mihomo_convert_ipv6-1_dns-0_full-0.js](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-1_dns-0_full-0.js) - 启用 IPv6，不配置 DNS 或域名嗅探，基础配置
+  - [mihomo_convert_ipv6-1_dns-0_full-1.js](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-1_dns-0_full-1.js) - 启用 IPv6，不配置 DNS 或域名嗅探，完整配置
+  - [mihomo_convert_ipv6-0_dns-0_full-0.js](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-0_dns-0_full-0.js) - 禁用 IPv6，不配置 DNS 或域名嗅探，基础配置
+  - [mihomo_convert_ipv6-0_dns-0_full-1.js](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_convert_ipv6-0_dns-0_full-1.js) - 禁用 IPv6，不配置 DNS 或域名嗅探，完整配置
 
 **Mihomo4Root 配置 (.yaml)**
 
 用于 [Box4Root](https://github.com/boxproxy/box) 、 [Surfing](https://github.com/GitMetaio/Surfing) 等运行在 Root Shell 环境中的工具。
-  - [Mihomo4Root_mihomo_config.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo4Root/Mihomo4Root_mihomo_config.yaml) - 启用 IPv6，禁用 TUN。 ⭐ 推荐（需要更改 Mihomo4Root 的运行模式为 Enhanced 等非 TUN 模式）
-  - [Mihomo4Root_mihomo_config_no_ipv6.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo4Root/Mihomo4Root_mihomo_config_no_ipv6.yaml) - 禁用 IPv6，禁用 TUN。（需要更改 Mihomo4Root 的运行模式为 Enhanced 等非 TUN 模式）
-  - [Mihomo4Root_mihomo_config_tun.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo4Root/Mihomo4Root_mihomo_config_tun.yaml) - 启用 IPv6，启用 TUN。
-  - [Mihomo4Root_mihomo_config_tun_no_ipv6.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo4Root/Mihomo4Root_mihomo_config_tun_no_ipv6.yaml) - 禁用 IPv6，启用 TUN。
+  - [Mihomo4Root_mihomo_config.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo4Root/Mihomo4Root_mihomo_config.yaml) - 启用 IPv6，禁用 TUN。 ⭐ 推荐（需要更改 Mihomo4Root 的运行模式为 Enhanced 等非 TUN 模式）
+  - [Mihomo4Root_mihomo_config_no_ipv6.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo4Root/Mihomo4Root_mihomo_config_no_ipv6.yaml) - 禁用 IPv6，禁用 TUN。（需要更改 Mihomo4Root 的运行模式为 Enhanced 等非 TUN 模式）
+  - [Mihomo4Root_mihomo_config_tun.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo4Root/Mihomo4Root_mihomo_config_tun.yaml) - 启用 IPv6，启用 TUN。
+  - [Mihomo4Root_mihomo_config_tun_no_ipv6.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo4Root/Mihomo4Root_mihomo_config_tun_no_ipv6.yaml) - 禁用 IPv6，启用 TUN。
 
 
 **Sparkle/Clash Party 使用方法**
@@ -84,7 +84,7 @@ Do not commit or publicly share the personalized YAML. The template contains no 
 
 **SubStore 使用方法**
 
-  -  [mihomo_convert_args.js](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_convert_args.js) - SubStore 可导入参数脚本
+  -  [mihomo_convert_args.js](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_convert_args.js) - SubStore 可导入参数脚本
 
 可传入参数，传入多个参数时，用`&`分隔：
 * `ipv6`：是否启用 IPv6，取值 `0`（禁用）或 `1`（启用），默认值 `1`
@@ -93,7 +93,7 @@ Do not commit or publicly share the personalized YAML. The template contains no 
 
 用例：
 ```
-https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_convert_args.js#ipv6=1&full=0&dns=0
+https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_convert_args.js#ipv6=1&full=0&dns=0
 ```
 
 **ShellCrash 使用方法**
@@ -101,13 +101,13 @@ https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihom
 使用 `curl` 下载配置文件到本地：
 
 ```bash
-curl -o /path/to/config/mihomo_config.yaml https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-1_full-0.yaml
+curl -o /path/to/config/mihomo_config.yaml https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-1_full-0.yaml
 ```
 
 使用 `wget` 下载配置文件到本地：
 
 ```bash
-wget -P /path/to/config/mihomo_config.yaml https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-1_full-0.yaml
+wget -P /path/to/config/mihomo_config.yaml https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Mihomo/mihomo_config_ipv6-1_dns-1_full-0.yaml
 ```
 > 以上 Sample 均使用启用 IPv6 的基础配置文件作为示例，请根据需要替换为其他版本的配置文件链接。
 
@@ -120,14 +120,14 @@ wget -P /path/to/config/mihomo_config.yaml https://raw.githubusercontent.com/Hig
 
 **覆写文件 (.stoverride) ⭐ 优先使用**
 - 点击以下链接直接导入到 Stash（推荐）：
-  - [一键导入 Stash_override_ipv6-1_dns-1.stoverride](https://intradeus.github.io/http-protocol-redirector?r=stash://install-override?url=https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Stash/Stash_override_ipv6-1_dns-1.stoverride) - 启用 IPv6，启用 DNS ⭐ 推荐
-  - [一键导入 Stash_override_ipv6-0_dns-1.stoverride](https://intradeus.github.io/http-protocol-redirector?r=stash://install-override?url=https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Stash/Stash_override_ipv6-0_dns-1.stoverride) - 禁用 IPv6，启用 DNS
-  - [一键导入 Stash_override_ipv6-1_dns-0.stoverride](https://intradeus.github.io/http-protocol-redirector?r=stash://install-override?url=https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Stash/Stash_override_ipv6-1_dns-0.stoverride) - 启用 IPv6，不配置 DNS
-  - [一键导入 Stash_override_ipv6-0_dns-0.stoverride](https://intradeus.github.io/http-protocol-redirector?r=stash://install-override?url=https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Stash/Stash_override_ipv6-0_dns-0.stoverride) - 禁用 IPv6，不配置 DNS
+  - [一键导入 Stash_override_ipv6-1_dns-1.stoverride](https://intradeus.github.io/http-protocol-redirector?r=stash://install-override?url=https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Stash/Stash_override_ipv6-1_dns-1.stoverride) - 启用 IPv6，启用 DNS ⭐ 推荐
+  - [一键导入 Stash_override_ipv6-0_dns-1.stoverride](https://intradeus.github.io/http-protocol-redirector?r=stash://install-override?url=https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Stash/Stash_override_ipv6-0_dns-1.stoverride) - 禁用 IPv6，启用 DNS
+  - [一键导入 Stash_override_ipv6-1_dns-0.stoverride](https://intradeus.github.io/http-protocol-redirector?r=stash://install-override?url=https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Stash/Stash_override_ipv6-1_dns-0.stoverride) - 启用 IPv6，不配置 DNS
+  - [一键导入 Stash_override_ipv6-0_dns-0.stoverride](https://intradeus.github.io/http-protocol-redirector?r=stash://install-override?url=https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Stash/Stash_override_ipv6-0_dns-0.stoverride) - 禁用 IPv6，不配置 DNS
 
 **配置文件 (.yaml)**
-  - [Stash_config_full.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Stash/Stash_config_full.yaml) - 启用 IPv6 版本 ⭐ 推荐
-  - [Stash_config_full_no_ipv6.yaml](https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Stash/Stash_config_full_no_ipv6.yaml) - 禁用 IPv6 版本
+  - [Stash_config_full.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Stash/Stash_config_full.yaml) - 启用 IPv6 版本 ⭐ 推荐
+  - [Stash_config_full_no_ipv6.yaml](https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Stash/Stash_config_full_no_ipv6.yaml) - 禁用 IPv6 版本
 
 
 ### Surge
@@ -140,12 +140,12 @@ wget -P /path/to/config/mihomo_config.yaml https://raw.githubusercontent.com/Hig
 
 **配置文件 (.lcf)**
 - 点击以下链接直接导入到 Loon（推荐）：
-  - [一键导入 Loon_config.lcf](https://intradeus.github.io/http-protocol-redirector?r=loon://import?sub=https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Loon/Loon_config.lcf) - 启用 IPv6 版本 ⭐ 推荐
-  - [一键导入 Loon_config_no_ipv6.lcf](https://intradeus.github.io/http-protocol-redirector?r=loon://import?sub=https://raw.githubusercontent.com/Higanoneko/ProxyRules/main/Config/Loon/Loon_config_no_ipv6.lcf) - 禁用 IPv6 版本
+  - [一键导入 Loon_config.lcf](https://intradeus.github.io/http-protocol-redirector?r=loon://import?sub=https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Loon/Loon_config.lcf) - 启用 IPv6 版本 ⭐ 推荐
+  - [一键导入 Loon_config_no_ipv6.lcf](https://intradeus.github.io/http-protocol-redirector?r=loon://import?sub=https://raw.githubusercontent.com/luluape/ProxyRules/main/Config/Loon/Loon_config_no_ipv6.lcf) - 禁用 IPv6 版本
 
 **使用方法：**
 1. 下载配置文件到本地
-2. 在 Surge 中选择「从文件导入配置」
+2. 在 Loon 中导入下载的配置文件
 3. 选择下载的 `.conf` 文件
 4. 在配置中添加你的代理节点订阅（替换 `policy-path=订阅地址`）
 
