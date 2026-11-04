@@ -137,11 +137,18 @@ jobs:
       - name: Validate native Egern generator
         run: |
           cd program
-          EGERN_SUBSCRIPTION_URL=https://example.com/test-subscription \
+          EGERN_SUBSCRIPTION_URL=https://example.invalid/REPLACE_WITH_YOUR_EGERN_SUBSCRIPTION \
             go run ./cmd/proxyrules --tool egern --output "$RUNNER_TEMP/proxyrules-egern"
           cd ..
           python3 scripts/validate_egern_native.py \
             --config-dir "$RUNNER_TEMP/proxyrules-egern/Egern"
+
+      - name: Publish credential-free Egern templates
+        run: |
+          python3 scripts/publish_egern_template.py \
+            --source "$RUNNER_TEMP/proxyrules-egern/Egern" \
+            --destination Config/Egern
+          python3 scripts/validate_egern_native.py --config-dir Config/Egern
 
       - name: Check for changes
         id: check_changes
