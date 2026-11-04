@@ -77,7 +77,7 @@ jobs:
       - name: Generate and validate native Egern profiles
         run: |
           cd program
-          EGERN_SUBSCRIPTION_URL=https://example.com/test-subscription \
+          EGERN_SUBSCRIPTION_URL=https://example.invalid/REPLACE_WITH_YOUR_EGERN_SUBSCRIPTION \
             go run ./cmd/proxyrules --tool egern --output "$RUNNER_TEMP/proxyrules-egern"
           cd ..
           python scripts/validate_egern_native.py \
