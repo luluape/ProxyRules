@@ -156,6 +156,12 @@ jobs:
       - name: Validate release guard
         run: python3 scripts/validate_release_guard.py
 
+      - name: Test cross-client consistency checker
+        run: python3 scripts/test_cross_client.py
+
+      - name: Validate cross-client coverage and rule ordering
+        run: python3 scripts/validate_cross_client.py
+
       - name: Check for changes
         id: check_changes
         run: |
