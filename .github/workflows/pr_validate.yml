@@ -91,6 +91,12 @@ jobs:
           python scripts/validate_egern_native.py \
             --config-dir "$RUNNER_TEMP/egern-public-preview"
 
+      - name: Test release guard
+        run: python3 scripts/test_release_guard.py
+
+      - name: Validate release guard
+        run: python3 scripts/validate_release_guard.py
+
       - name: Verify generated configurations
         run: |
           test -s Config/Stash/Stash_config_full.yaml

@@ -150,6 +150,12 @@ jobs:
             --destination Config/Egern
           python3 scripts/validate_egern_native.py --config-dir Config/Egern
 
+      - name: Test release guard
+        run: python3 scripts/test_release_guard.py
+
+      - name: Validate release guard
+        run: python3 scripts/validate_release_guard.py
+
       - name: Check for changes
         id: check_changes
         run: |
