@@ -1,4 +1,4 @@
-# Generated at (UTC): 2026-11-05T23:57:50Z
+# Generated at (UTC): 2026-11-06T15:33:40Z
 
 # Update Date: 2026.09.25 13:30
 # author: Higanoneko
@@ -26,7 +26,7 @@ dns:
   listen: 0.0.0.0:1053
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  fake-ip-range6: fdfe:dcba:9876::1/64
+  fake-ip-range6: '2001:2::/64'
   default-nameserver:
     - 119.29.29.29
     - '2402:4e00::'
