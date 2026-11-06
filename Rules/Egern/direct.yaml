@@ -413,6 +413,7 @@ domain_set:
 - publicassets.cdn-apple.com
 - qiao-cn.com
 - qpx.googleflights.net
+- radio.itunes.apple.com
 - recaptcha-cn.net
 - recaptcha.net
 - redirector.bdn.dev
@@ -17417,6 +17418,7 @@ domain_suffix_set:
 - bsdongxin.com
 - bsdt1688.com
 - bsehk.com
+- bseinfo.net
 - bseqp.com
 - bserc.com
 - bsgcnc.com
@@ -22322,7 +22324,6 @@ domain_suffix_set:
 - chuxinvip.com
 - chuxueyun.com
 - chuyaer.com
-- chuyu.me
 - chuzhaobiao.com
 - chvacuum.com
 - chvoice.com
@@ -36013,14 +36014,12 @@ domain_suffix_set:
 - gamehaopu.com
 - gamehome.tv
 - gameinns.com
-- gameitop.com
 - gamejym.com
 - gamekee.com
 - gamekezhan.com
 - gamekuaishou.com
 - gamelet.games
 - gameley.com
-- gameloop.com
 - gameloop.fun
 - gamemale.com
 - gamemcu.com
@@ -50256,7 +50255,6 @@ domain_suffix_set:
 - in-tencentclb.com
 - in-tencentclb.net
 - in-tencentclb.work
-- in.th
 - in001.com
 - in66.com
 - in800.com
@@ -62078,6 +62076,7 @@ domain_suffix_set:
 - luyinla.com
 - luyinzhushou.com
 - luyitong.com
+- luyong.com
 - luyor.net
 - luyouqi.com
 - luyouwang.com
@@ -62876,9 +62875,6 @@ domain_suffix_set:
 - magpiepharma.com
 - magtechjournal.com
 - magvision.com
-- mahjongai.net
-- mahjongcup.com
-- mahjongcup.net
 - mahoupao.com
 - mahua.com
 - mai.com
@@ -72322,7 +72318,6 @@ domain_suffix_set:
 - proup.club
 - providence-chemicals.com
 - prowine-shanghai.com
-- proximabeta.com
 - proya-group.com
 - proya.com
 - proyy.com
@@ -78731,6 +78726,7 @@ domain_suffix_set:
 - senra.me
 - sense-hk.com
 - senseagro.com
+- senseavatar.com
 - senselock.com
 - senseluxury.com
 - senser.group
@@ -80983,6 +80979,7 @@ domain_suffix_set:
 - shutu.cc
 - shutwin.com
 - shuwangxing.com
+- shuwen.com
 - shuwenxianyun.com
 - shuwulou.com
 - shuxiangmuye.com
@@ -87039,8 +87036,6 @@ domain_suffix_set:
 - tetuijiudian.com
 - tevachem.com
 - tex68.com
-- texasholdemcup.com
-- texasholdemcup.net
 - texpage.com
 - texpageusercontent.com
 - texpro-group.com
@@ -87646,6 +87641,7 @@ domain_suffix_set:
 - tidemedia.com
 - tidepharm.com
 - tidesec.com
+- tidesight.com
 - tideswing.fun
 - tidi.mobi
 - tiduyun.com
@@ -90701,6 +90697,7 @@ domain_suffix_set:
 - upsapp.com
 - upseller.com
 - upskyshanghai.com
+- upsort.com
 - upst86.com
 - uptom.com
 - uptougu.com
@@ -104506,6 +104503,7 @@ domain_suffix_set:
 - yundonghao.com
 - yundongit.com
 - yundousoft.com
+- yundouxueyuan.com
 - yundui.cc
 - yunduimedia.com
 - yundun.com
@@ -105155,6 +105153,7 @@ domain_suffix_set:
 - yy960.com
 - yyaotec.com
 - yyarea.com
+- yybip.com
 - yyblly.com
 - yybnet.net
 - yybox.cc
