@@ -2,7 +2,7 @@
 # Replace the placeholder subscription URL with your own Egern-compatible HTTPS URL.
 # Never commit a personalized copy of this file to a public repository.
 
-# Generated at (UTC): 2026-11-07T22:30:33Z
+# Generated at (UTC): 2026-11-08T22:41:31Z
 
 dns:
     bootstrap:
