@@ -80,6 +80,7 @@ domain_set:
 - bnetproduct-a.akamaihd.net
 - bnetshopus.akamaized.net
 - brightcove.imgix.net
+- builds.dotnet.microsoft.com
 - bybit-exchange.github.io
 - bybit.ada.support
 - c.ppy.sh
@@ -182,6 +183,7 @@ domain_set:
 - dmqdd6hw24ucf.cloudfront.net
 - docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 - docker-pinata-support.s3.amazonaws.com
+- dotnetcli.trafficmanager.net
 - doy2mn9upadnk.cloudfront.net
 - dqd0jw5gvbchn.cloudfront.net
 - dqrpb9wgowsf5.cloudfront.net
@@ -267,6 +269,7 @@ domain_set:
 - homebrew.bintray.com
 - hpefonts.s3.amazonaws.com
 - hpstore.corpmerchandise.com
+- http-intake.logs.us5.datadoghq.com
 - hub.slarker.me
 - hulu.playback.edge.bamgrid.com
 - i.jeded.com
@@ -352,6 +355,7 @@ domain_set:
 - nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 - nvidia.custhelp.com
 - nvidia.tt.omtrdc.net
+- o1158394.ingest.us.sentry.io
 - ocsp.microsoft.com
 - officecdn-microsoft-com.akamaized.net
 - onekey.zendesk.com
@@ -380,6 +384,7 @@ domain_set:
 - prd-priconne-redive.akamaized.net
 - preprod-publicca.googleapis.com
 - prodforza.blob.core.windows.net
+- production-copilot-host-westus.webpubsub.azure.com
 - production-openaicom-storage.azureedge.net
 - productionresultssa0.blob.core.windows.net
 - productionresultssa1.blob.core.windows.net
@@ -547,6 +552,7 @@ domain_set:
 - steamuserimages-a.akamaihd.net
 - steamvideo-a.akamaihd.net
 - straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+- sundry-star-net-geo.trafficmanager.net
 - supercell.helpshift.com
 - supercell.zendesk.com
 - t.ssp.hinet.net
@@ -1160,6 +1166,7 @@ domain_suffix_set:
 - 51luoben.com
 - 51luoli.info
 - 51mh.app
+- 51papaya.com
 - 51pincha.cc
 - 51tuqiang.com
 - 520aa.tv
@@ -6985,6 +6992,7 @@ domain_suffix_set:
 - cybertrust.ne.jp
 - cyberx.com
 - cygames.co.jp
+- cygames.com
 - cygames.jp
 - cygwin.com
 - cylink.pro
@@ -7168,6 +7176,7 @@ domain_suffix_set:
 - deasians.com
 - debank.com
 - debian.org
+- debot.ai
 - debug.com
 - debugproject.com
 - decentr.net
@@ -11381,6 +11390,8 @@ domain_suffix_set:
 - grabhentai.com
 - grabpussy.com
 - gradeuptube.com
+- grafana.com
+- grafana.net
 - grafolio.com
 - graias.com
 - graiasmovies.com
@@ -11434,6 +11445,7 @@ domain_suffix_set:
 - gridaware.app
 - grindr.com
 - grok.com
+- grokbot.com
 - grokipedia.com
 - grooby.com
 - groq.com
@@ -20047,6 +20059,7 @@ domain_suffix_set:
 - quatrowireless.com
 - quatrum.com.br
 - quay.io
+- questionablequesting.com
 - questvisual.com
 - quicinc.com
 - quickbook.com.br
@@ -20404,6 +20417,7 @@ domain_suffix_set:
 - relateiq.com
 - religionnews.com
 - remirepo.net
+- remna.dev
 - remna.st
 - rencapbank.ru
 - renchead.com
@@ -22032,6 +22046,7 @@ domain_suffix_set:
 - soyjak.party
 - soyjak.st
 - sp.cool
+- spacebattles.com
 - spaceexplored.com
 - spaceforce.mil
 - spacely.com.au
@@ -24201,6 +24216,7 @@ domain_suffix_set:
 - v.recipes
 - v2.help
 - v2.hysteria.network
+- v2ex.co
 - v2ex.com
 - v2fly.org
 - v2ph.com
@@ -26743,6 +26759,7 @@ domain_suffix_set:
 - yaya.cyou
 - yayadizhi.xyz
 - yazhouse8.com
+- yb-payment.ru
 - yccdn.ru
 - yclients.com
 - ycombinator.com

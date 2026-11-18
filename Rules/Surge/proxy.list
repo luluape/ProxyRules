@@ -79,6 +79,7 @@ DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,bnetshopus.akamaized.net
 DOMAIN,brightcove.imgix.net
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
 DOMAIN,c.ppy.sh
@@ -181,6 +182,7 @@ DOMAIN,dlmobilegarena-a.akamaihd.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 DOMAIN,docker-pinata-support.s3.amazonaws.com
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN,doy2mn9upadnk.cloudfront.net
 DOMAIN,dqd0jw5gvbchn.cloudfront.net
 DOMAIN,dqrpb9wgowsf5.cloudfront.net
@@ -266,6 +268,7 @@ DOMAIN,holoxx.f5.si
 DOMAIN,homebrew.bintray.com
 DOMAIN,hpefonts.s3.amazonaws.com
 DOMAIN,hpstore.corpmerchandise.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
 DOMAIN,hub.slarker.me
 DOMAIN,hulu.playback.edge.bamgrid.com
 DOMAIN,i.jeded.com
@@ -351,6 +354,7 @@ DOMAIN,ntppool2.time.nl
 DOMAIN,nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 DOMAIN,nvidia.custhelp.com
 DOMAIN,nvidia.tt.omtrdc.net
+DOMAIN,o1158394.ingest.us.sentry.io
 DOMAIN,ocsp.microsoft.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,onekey.zendesk.com
@@ -379,6 +383,7 @@ DOMAIN,practivate.adobe.com
 DOMAIN,prd-priconne-redive.akamaized.net
 DOMAIN,preprod-publicca.googleapis.com
 DOMAIN,prodforza.blob.core.windows.net
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,productionresultssa0.blob.core.windows.net
 DOMAIN,productionresultssa1.blob.core.windows.net
@@ -546,6 +551,7 @@ DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN,supercell.helpshift.com
 DOMAIN,supercell.zendesk.com
 DOMAIN,t.ssp.hinet.net
@@ -1158,6 +1164,7 @@ DOMAIN-SUFFIX,51lieqi.com
 DOMAIN-SUFFIX,51luoben.com
 DOMAIN-SUFFIX,51luoli.info
 DOMAIN-SUFFIX,51mh.app
+DOMAIN-SUFFIX,51papaya.com
 DOMAIN-SUFFIX,51pincha.cc
 DOMAIN-SUFFIX,51tuqiang.com
 DOMAIN-SUFFIX,520aa.tv
@@ -6983,6 +6990,7 @@ DOMAIN-SUFFIX,cybertrust.co.jp
 DOMAIN-SUFFIX,cybertrust.ne.jp
 DOMAIN-SUFFIX,cyberx.com
 DOMAIN-SUFFIX,cygames.co.jp
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,cygwin.com
 DOMAIN-SUFFIX,cylink.pro
@@ -7166,6 +7174,7 @@ DOMAIN-SUFFIX,dealtree.org
 DOMAIN-SUFFIX,deasians.com
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,debot.ai
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,debugproject.com
 DOMAIN-SUFFIX,decentr.net
@@ -11379,6 +11388,8 @@ DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,grabhentai.com
 DOMAIN-SUFFIX,grabpussy.com
 DOMAIN-SUFFIX,gradeuptube.com
+DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,grafana.net
 DOMAIN-SUFFIX,grafolio.com
 DOMAIN-SUFFIX,graias.com
 DOMAIN-SUFFIX,graiasmovies.com
@@ -11432,6 +11443,7 @@ DOMAIN-SUFFIX,greginhollywood.com
 DOMAIN-SUFFIX,gridaware.app
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokbot.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,grooby.com
 DOMAIN-SUFFIX,groq.com
@@ -20045,6 +20057,7 @@ DOMAIN-SUFFIX,quantil.com
 DOMAIN-SUFFIX,quatrowireless.com
 DOMAIN-SUFFIX,quatrum.com.br
 DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,questionablequesting.com
 DOMAIN-SUFFIX,questvisual.com
 DOMAIN-SUFFIX,quicinc.com
 DOMAIN-SUFFIX,quickbook.com.br
@@ -20402,6 +20415,7 @@ DOMAIN-SUFFIX,reiporno.com
 DOMAIN-SUFFIX,relateiq.com
 DOMAIN-SUFFIX,religionnews.com
 DOMAIN-SUFFIX,remirepo.net
+DOMAIN-SUFFIX,remna.dev
 DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,renchead.com
@@ -22030,6 +22044,7 @@ DOMAIN-SUFFIX,soyinyj.top
 DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
 DOMAIN-SUFFIX,sp.cool
+DOMAIN-SUFFIX,spacebattles.com
 DOMAIN-SUFFIX,spaceexplored.com
 DOMAIN-SUFFIX,spaceforce.mil
 DOMAIN-SUFFIX,spacely.com.au
@@ -24199,6 +24214,7 @@ DOMAIN-SUFFIX,v.ps
 DOMAIN-SUFFIX,v.recipes
 DOMAIN-SUFFIX,v2.help
 DOMAIN-SUFFIX,v2.hysteria.network
+DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2fly.org
 DOMAIN-SUFFIX,v2ph.com
@@ -26741,6 +26757,7 @@ DOMAIN-SUFFIX,yavtube.com
 DOMAIN-SUFFIX,yaya.cyou
 DOMAIN-SUFFIX,yayadizhi.xyz
 DOMAIN-SUFFIX,yazhouse8.com
+DOMAIN-SUFFIX,yb-payment.ru
 DOMAIN-SUFFIX,yccdn.ru
 DOMAIN-SUFFIX,yclients.com
 DOMAIN-SUFFIX,ycombinator.com
