@@ -1,4 +1,4 @@
-// Generated at (UTC): 2026-11-25T02:57:39Z
+// Generated at (UTC): 2026-11-26T02:03:30Z
 
 /*
 Higanoneko 的 Substore 订阅转换脚本
